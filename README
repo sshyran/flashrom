@@ -1,6 +1,6 @@
--------------------------------------------------------------------------------
+-------------------------
 flashrom README
--------------------------------------------------------------------------------
+-------------------------
 
 flashrom is a utility for detecting, reading, writing, verifying and erasing
 flash chips. It is often used to flash BIOS/EFI/coreboot/firmware images
